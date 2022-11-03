@@ -1,0 +1,8 @@
+{
+  "name": "module3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ronald-02/module3.git", 
+  "author": "Ronald Da Silva <ronaldtavares190@gmail.com",
+  "license": "MIT"
+}

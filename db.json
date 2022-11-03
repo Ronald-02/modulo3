@@ -1,0 +1,144 @@
+{
+    "Filme":[
+        {
+        "id": 1,
+        "fil_nome":"fil 1",
+        "nome": "O Telefone Preto",
+        "genero": "Terror, Suspense",
+        "produção":"Mason Thames, Madeleine McGraw, Ethan Hawke",
+        "país":"EUA",
+        "ano de lançamento": 2022,
+        "horario dos filmes": "19H",
+         "assentos": "50 comuns, 30 vips, 20 preferencias",
+             "Dub/Leg":"Dub 19:30h, Leg 17:00"
+             
+        },
+        {
+            "id": 2,
+            "fil_nome":"fil 2",
+            "nome": "Batman",
+            "genero": "Ação,Fantasia,Super-herói,Suspense,Ficção Científica,Drama,Aventura",
+            "produção":"Robert Pattinson, Zoë Kravitz, Paul Dano",
+            "país":"EUA",
+            "ano de lançamento": 2022,
+            "horario dos filmes": "19H",
+            "assentos": "50 comuns, 30 vips, 20 preferencias",
+             "Dub/Leg":"Dub 19:30h, Leg 17:00"
+            },
+            {
+                "id": 3,
+                "fil_nome":"fil 3",
+                "nome": "Adão Negro",
+                "genero": "Ação,Fantasia,Super-herói,Suspense,Ficção Científica,Drama,Aventura",
+                "produção":"Dwayne Johnson,Hiram Garcia,Dany Garcia,Beau Flynn",
+                "ano de lançamento": 2022
+                },
+                {
+                    "id": 4,
+                    "fil_nome":"fil 4",
+                    "nome": "Minions 2: A Origem de Gru",
+                    "genero": "Ação,Aventura,Familiar,Coloring Cartoon,Ficção Científica,Animação,Comédia",
+                    "produção":"Chris Meledandri,Janet Healy,Chris Renaud",
+                    "ano de lançamento": 2022
+                    }
+    ],
+    "Produtos": [
+        {
+            "id": 1,
+            "prod_nome": "prod 1",
+            "nome": "Pipoca Salgada Mega",
+            "descricao" : "Milho de pipoca, manteiga e sal",
+            "preco" : 22.9, 
+            "categoria_id": 1
+        },
+            {
+                "id": 2,
+                "prod_nome": "prod 2",
+                "nome": "Pipoca Salgada Grande",
+                "descricao" : "Milho de pipoca, manteiga e sal",
+                "preco" : 16.9, 
+                "categoria_id": 1
+            },
+            {
+                "id": 3,
+                "prod_nome": "prod 3",
+                "nome": "Pipoca Salgada Média",
+                "descricao" : "Milho de pipoca, manteiga e sal",
+                "preco" : 12.9, 
+                "categoria_id": 1
+            },
+            {
+                "id": 4,
+                "prod_nome": "prod 4",
+                "nome": "Pipoca Doce Mega",
+                "descricao" : "Milho de pipoca, manteiga e chocolate",
+                "preco" : 22.9, 
+                "categoria_id": 1
+            }
+    ],
+    "Fanshop":[
+        {
+            "id": 1,
+            "fan_nome": "fan 1",
+            "nome": "T-shirt Space Jam Stars Lola",
+            "preco" : "69,90",
+            "categoria_id": 1
+        },
+        {
+            "id": 2,
+            "fan_nome": "fan 2",
+            "nome": "Camiseta Unissex The Batman Shadows",
+            "preco" : "69,90",
+            "categoria_id": 1
+        }, 
+        {
+            "id": 3,
+            "fan_nome": "fan 3",
+            "nome": "Moletom com Capuz Adão Negro Training + Cards Sociedade da Justiça",
+            "preco" : "129,90",
+            "categoria_id": 1
+        },
+        {
+            
+           "id": 4,
+           "fan_nome": "fan 4",
+           "nome": "Caneca Space Jam Squad",
+           "preco" : "39,90", 
+           "categoria_id": 1
+        }
+    ],
+    "Cinema":[
+        {
+            "id": 1,
+            "Cine_nome":"Cinesystem Bangu - Rio de Janeiro",
+             "localização": "R. Fonseca, 240 - Bangu",
+             "horario dos filmes": "19H",
+             "assentos": "40 comuns, 30 vips, 20 preferencias",
+             "Dub/Leg":"Dub 19:30h, Leg 19:00"
+        },
+        {
+            "id": 2,
+            "Cine_nome":"Cinesystem Parque Shopping Sulacap",
+             "localização": "Av Marechal Fontenelle, 3545 - Campo Dos Afonsos",
+             "horario dos filmes": "17H",
+             "assentos": "40 comuns, 30 vips, 20 preferencias",
+             "Dub/Leg":"Dub 17:30h, Leg 17:00"
+        },
+        {
+            "id": 3,
+            "fil_nome":"UCI Park Campo Grande",
+             "localização": "Estrada do Monteiro, 1200 - Campo Grande",
+             "horario dos filmes": "20H",
+             "assentos": "50 comuns, 30 vips, 25 preferencias",
+             "Dub/Leg":"Dub 20:30h, Leg 20:00"
+        },
+        {
+            "id": 4,
+            "fil_nome":"UCI New York City Center",
+             "localização": "Av. das Américas, 5000 - Barra da Tijuca",
+             "horario dos filmes": "15H",
+             "assentos": "48 comuns, 48 vips, 48 preferencias",
+             "Dub/Leg":"Dub 15:30h, Leg 15:00"
+        }
+    ]
+}
